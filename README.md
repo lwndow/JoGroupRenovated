@@ -38,6 +38,8 @@ Go to the "Elder Scrolls Online" folder in your Documents
 * **NOTE**: This installs as `JoGroup` not `JoGroupRenovated` to persist from previous settings.
 
 ### Release History
+#### 1.9.1 (lwndow)
+* API bump for Blackwood
 #### 1.9.0 (lwndow)
 * API bump for Markarth and Flames of Ambition
 * LibStub is banished

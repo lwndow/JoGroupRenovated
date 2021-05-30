@@ -6,7 +6,7 @@ local anm = GetAnimationManager()
 local sf = 1/GetSetting(SETTING_TYPE_UI, UI_SETTING_CUSTOM_SCALE)
 
 Jo.name = "JoGroup"
-Jo.version = 1.90
+Jo.version = 1.91
 Jo.varsVersion = 1.3
 Jo.unit = {}
 Jo.delayedRebuildCounter = 0

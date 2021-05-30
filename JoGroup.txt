@@ -1,8 +1,8 @@
 ## Title: JoGroup
-## APIVersion: 100033 100034
+## APIVersion: 100034 100035
 ## Author: @lwndow, @Deandra & JoyceKimberly
-## AddOnVersion: 190
-## Version: 1.9.0
+## AddOnVersion: 191
+## Version: 1.9.1
 ## DependsOn: LibAddonMenu-2.0
 ## SavedVariables: JoGroupVars
 
